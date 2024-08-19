@@ -1,5 +1,5 @@
 # Google-Advanced-Data-Analytics-Professional-Certificate
-The Google Advanced Data Analytics Professional Certificate is a comprehensive program designed to equip professionals with the advanced skills needed to excel in the field of data analytics. This certification goes beyond the basics, offering in-depth training in data analysis, machine learning, and data-driven decision-making.
+Certificate of completion - 
 
 This repository contains labs, annotated notebooks, and capstone project for the [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics) program. Each folder holds all the work for each of these courses as well as the certificate awarded after completion.
 
